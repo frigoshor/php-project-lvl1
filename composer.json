@@ -1,0 +1,13 @@
+{
+    "name": "frigoshor/php-project-lvl1",
+    "authors": [
+        {
+            "name": "frigoshor",
+            "email": "frigoshor@gmail.com"
+        }
+    ],
+    "require": {},
+    "bin": [
+        "bin/brain-games"
+    ]
+}
